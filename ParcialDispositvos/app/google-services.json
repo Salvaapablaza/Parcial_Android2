@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468546224404",
+    "firebase_url": "https://parcialdispositvos.firebaseio.com",
+    "project_id": "parcialdispositvos",
+    "storage_bucket": "parcialdispositvos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468546224404:android:e9a1b998ff2e31c85f8201",
+        "android_client_info": {
+          "package_name": "com.example.parcialdispositvos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468546224404-fmrvfgun2rte2ugfps86i7sqgvf0gd2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtvVzNMRLQZOjIPlwI7mDYFj0Op2xETU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468546224404-fmrvfgun2rte2ugfps86i7sqgvf0gd2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
